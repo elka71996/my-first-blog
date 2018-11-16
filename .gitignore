@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+train_box
+db.sqlite3
+/static
+.DS_Store
